@@ -195,7 +195,7 @@ let questions = [
     numb: 27,
     question: "What is the type of distortion shown in the figure?",
     immg: "img27",
-    answer: "Longitudinal distortion",
+    answer: "Transverse distortion",
     options: [
       "Wide distortion",
       "Angular distortion",
